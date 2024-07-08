@@ -1,9 +1,9 @@
 body {
 	line-height: 1.7;
-	color: lighten($green, 50%);
+	color: lighten($black, 50%);
 	font-weight: 400;
 	font-size: $font-size-base;
-	background: $black;
+	background: $green;
 }
 ::-moz-selection { 
 	background: $black;
